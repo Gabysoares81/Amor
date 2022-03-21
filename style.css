@@ -47,13 +47,13 @@ section.pic {
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.47)
 }
 
-section#pic2 {
-    background-image: url('backgrounds/background002.jpg');
+section#pic1 {
+    background-image: url('backgrounds/pic1.jpg');
+    text-shadow: 1px 1px 0px black;
 }
 
-section#pic1 {
-    background-image: url('backgrounds/background001.jpg');
-    text-shadow: 1px 1px 0px black;
+section#pic2 {
+    background-image: url('backgrounds/pic2.2.jpg');
 }
 
 p {
