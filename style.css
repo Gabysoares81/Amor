@@ -42,18 +42,22 @@ section {
 
 section.pic {
     background-size: cover;
-    background-position: right center;
+    background-position: center center;
     background-attachment: fixed;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.47)
 }
 
 section#pic1 {
-    background-image: url('backgrounds/pic1.jpg');
+    background-image: url('media/backgrounds/pic1.jpg');
     text-shadow: 1px 1px 0px black;
 }
 
 section#pic2 {
-    background-image: url('backgrounds/pic2.2.jpg');
+    background-image: url('media/backgrounds/pic2.2.jpg');
+}
+
+section#pic3 {
+    background-image: url("media/backgrounds/pic3.3.jpg");
 }
 
 p {
