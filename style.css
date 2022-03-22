@@ -32,9 +32,9 @@ section {
 }
 
 audio.songs {
-    width: 360px;
-    height: 60px;
-    padding: 0 5px 5px 5px;
+    width: 330px;
+    height: 40px;
+    padding: 5px;
     background-color: rgba(0, 0, 0, 0.603);
     border-radius: 30px;
     display: block;
@@ -43,8 +43,8 @@ audio.songs {
 
 video {
     background-color: rgb(51, 51, 51);
-    width: 480px;
-    height: 320px;
+    width: 60vw;
+    height: 42vh;
     display: block;
     margin: auto;
     border-radius: 10px;
