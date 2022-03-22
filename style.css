@@ -32,8 +32,8 @@ section {
 }
 
 audio.songs {
-    width: 330px;
-    height: 40px;
+    width: 280px;
+    height: 30px;
     padding: 5px;
     background-color: rgba(0, 0, 0, 0.603);
     border-radius: 30px;
@@ -43,8 +43,8 @@ audio.songs {
 
 video {
     background-color: rgb(51, 51, 51);
-    width: 60vw;
-    height: 42vh;
+    width: 55vw;
+    height: 30vh;
     display: block;
     margin: auto;
     border-radius: 10px;
@@ -72,7 +72,7 @@ section#pic3 {
 
 p {
     font-family: 'Parisienne', cursive;
-    font-weight: 400;
+    font-weight: 600;
 }
 
 .toRead {
